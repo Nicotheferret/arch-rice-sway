@@ -2,20 +2,21 @@
     border: none;
 }
 window {
+    /*border-radius:5px;*/
     font-size: 24px;
     font-family: "maple mono";
-    background-color: #2e3440;
+    background-color: rgba(46,52,64,0.9);
     color: #8fbcbb;
 
 }
 #entry:selected {
-background-color: #bf616a;
+background-color: #accebe;
 }
 #text:selected {
-background-color: #bf616a;
+background-color: #accebe;
 color: white;
 }
 #input {
 background-color: #2e3440;
-color: white;
+color: black;
 }
